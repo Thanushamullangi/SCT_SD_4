@@ -1,0 +1,32 @@
+Requirements (For GitHub / Project)
+🔹 Software Requirements
+
+Operating System: Windows / Linux / macOS
+
+Python Version: Python 3.8 or above
+
+Code Editor: VS Code / Notepad / PyCharm (Any IDE)
+
+🔹 Hardware Requirements
+
+Minimum 4 GB RAM
+
+Internet Connection (for web scraping)
+
+Basic Computer System / Laptop
+
+🔹 Library Requirements
+
+Requests Library
+
+BeautifulSoup4 Library
+
+CSV Module (Built-in Python library)
+
+🔹 Other Requirements
+
+Basic Knowledge of Python
+
+Basic Knowledge of HTML
+
+GitHub Account (for hosting project)

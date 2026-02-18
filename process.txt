@@ -1,0 +1,21 @@
+Process of Developing the Web Scraping Project
+
+First, Python was installed on the system and required libraries such as Requests and BeautifulSoup were installed.
+
+A new project folder was created and a Python file named scraper.py was prepared.
+
+The target website was selected for scraping and its HTML structure was analyzed using the Inspect tool.
+
+The webpage content was fetched using the Requests library.
+
+The fetched HTML content was parsed using the BeautifulSoup library.
+
+Required data such as product name, price, and rating were identified and extracted from the webpage.
+
+The extracted data was stored in a list for processing.
+
+The processed data was written into a CSV file using the CSV module.
+
+The program was executed and tested to verify correct output.
+
+Finally, the generated CSV file was checked to ensure accuracy of the extracted data.
